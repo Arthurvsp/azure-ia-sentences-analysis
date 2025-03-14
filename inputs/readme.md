@@ -1,8 +1,6 @@
 # Analisando sentenças com Azure AI
 
 ## Prints
-![Repositório no GitHub](path-to-screenshot)
-
 ### Análise de Sentenças no Azure AI
 ![Análise no Azure AI](https://github.com/user-attachments/assets/648b8e3d-10a8-42ad-8b46-986e112dbb09)
 
